@@ -1,4 +1,4 @@
-# Estrutura de Dados II
+# Estrutura de Dados 2
 
 Repositório com as atividades desenvolvidas na disciplina de Estrutura de Dados 2.
 
@@ -8,14 +8,21 @@ Aqui ficam armazenados os códigos, relatórios e exercícios propostos ao longo
 
 ## Organização
 
-Cada atividade está registrada com a data e geralmente é composta por:
+Cada atividade fica em sua própria pasta, contendo:
 - Código-fonte (Python)
 - Relatório ou documento com a análise/respostas (quando aplicável)
 
-## Tecnologia
+```
+/
+├── atividade-01/
+├── atividade-02/
+└── ...
+```
+
+## Tecnologias
 
 - Python
 
 ## Autor
 
-Feito para fins acadêmicos, como parte da disciplina de Estrutura de Dados 2.
+Feito para fins acadêmicos, como parte da disciplina de Estrutura de Dados II.
